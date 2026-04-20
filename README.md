@@ -116,6 +116,24 @@ This project focuses on analyzing fashion retail sales data to extract meaningfu
 This project demonstrates how data analysis techniques can be applied to solve real-world business problems and generate actionable insights.
 
 ---
+## 📊 Project Visualizations
+
+### Average Discount by Product Type
+![Average Discount by Product Type](Screenshot 2026-04-20 100407.png)
+
+### Top Selling Product in each Season
+![Top Selling Product in each Season](Screenshot 2026-04-20 100341.png)
+
+### Total Sales by Product Type by Country
+![Total Sales by Product Type by Country](Screenshot 2026-04-20 100233.png)
+
+### Correlation Matrix of Numerical variables
+![Correlation Matrix of Numerical variables](Screenshot 2026-04-20 100209.png)
+
+### SweetViz Dashboard
+![SweetViz Dashboard](Screenshot 2026-04-20 100153.png)
+![SweetViz Dashboard](Screenshot 2026-04-20 100133.png)
+
 
 ## ⭐ Acknowledgment
 
